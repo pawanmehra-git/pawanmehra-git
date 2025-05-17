@@ -4,6 +4,17 @@
 ![image](https://github.com/Pawan-CEO/Pawan-CEO/assets/61104663/ef10f147-7e06-4680-80c6-b33de7682b83)
 
 ---
+### 🚀 GitHub Achievements & Stats
+
+![GitHub followers](https://img.shields.io/github/followers/pawanmehra-git?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/pawanmehra-git?style=social)
+![GitHub contributions](https://img.shields.io/github/contributions/2024/pawanmehra-git?color=green)
+![Profile views](https://komarev.com/ghpvc/?username=pawanmehra-git&label=Profile%20views&color=0e75b6&style=flat)
+
+---
+
+![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawanmehra-git&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanmehra-git&layout=compact&theme=radical)
 
 🚀 **About Me**
 
