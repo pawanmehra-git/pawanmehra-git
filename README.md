@@ -1,6 +1,4 @@
 ### Hi there 👋 I am Pawan Mehra  
-![GitHub followers](https://img.shields.io/github/followers/pawanmehra-git?style=social)
-
 ![image](https://github.com/Pawan-CEO/Pawan-CEO/assets/61104663/ef10f147-7e06-4680-80c6-b33de7682b83)
 
 ---
@@ -12,9 +10,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=pawanmehra-git&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanmehra-git&layout=compact&theme=radical)
-
 🚀 **About Me**
 
 I'm a **Data Scientist** with 4+ years of experience in building **machine learning**, **natural language processing**, and **AI-driven solutions** to solve real-world business problems.
@@ -39,6 +34,8 @@ I'm a **Data Scientist** with 4+ years of experience in building **machine learn
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/pawan-mehra/)
 - 🧪 [Kaggle](https://www.kaggle.com/pawanmehra)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanmehra-git&layout=compact&theme=radical)
 
 ---
 
