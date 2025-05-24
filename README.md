@@ -6,7 +6,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/pawanmehra-git?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/pawanmehra-git?style=social)
-![GitHub contributions](https://img.shields.io/github/contributions/2024/pawanmehra-git?color=green)
 ![Profile views](https://komarev.com/ghpvc/?username=pawanmehra-git&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
