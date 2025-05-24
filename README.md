@@ -13,7 +13,6 @@
 
 ---
 
-![Pawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pawanmehra-git&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pawanmehra-git&layout=compact&theme=radical)
 
 🚀 **About Me**
